@@ -4,7 +4,7 @@
 https://github.com/dmcc789/progressiveBudget
 
 ## Description
-progressiveBudget is a progressive web application utilizing express and a MongoDB database.  progressiveBudget can be used to add expenses and deposits to a budget with or without a connection to the internet.
+progressiveBudget is a progressive web application utilizing service-worker, web manifest, and express.  progressiveBudget can be used to add expenses and deposits to a budget with or without a connection to the internet.
  
 ## License
 MIT
